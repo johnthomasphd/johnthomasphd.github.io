@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "photo.png"
+  name             : "John Thomas"
+  pronouns         : # example: "he/him"  
+  bio              : "Transforming Healthcare with Biomedical Signal Processing and Deep Learning | Neuroengineering Scientist at Duke University | Interdisciplinary research | Epilepsy Biomarkers | Sleep | Brain-Computer Interfaces"
+  location         : "North Carolina, USA"
+  employer         : "Duke University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "j.thomas@duke.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

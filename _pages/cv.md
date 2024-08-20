@@ -26,9 +26,9 @@ Pratt School of Engineering, Duke University
 <div style="margin-top: 0px; margin-bottom: 0px;">
 Ongoing Projects:
 </div>
-* Deep phenotyping of stereo-EEG data for optimising epilepsy surgery
-* Intracranial thalamic stimulation for modulating sleep-epielpsy networks
-* Longitudnal assesment of sleep quality using wearables
+* Deep phenotyping of stereo-EEG data for optimising epilepsy surgery  
+* Intracranial thalamic stimulation for modulating sleep-epielpsy networks  
+* Longitudnal assesment of sleep quality using wearables  
   
 
 

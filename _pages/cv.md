@@ -21,13 +21,14 @@ Supervisor: Dr. Dr. A. V. Babu
 
 ## Employment History
 
-*2013-Present* **Research Scientist**    
+*2023-Present* **Research Scientist**    
 Pratt School of Engineering, Duke University
 <div style="margin-top: 0px; margin-bottom: 0px;">
 Ongoing Projects:</div>
 
 * Deep phenotyping of stereo-EEG data for optimising epilepsy surgery   
 * Intracranial thalamic stimulation for modulating sleep-epilepsy networks
+* Utilizing Large Language Models to derive and standardize seizure semiology
 * Longitudnal assesment of sleep quality using wearables
 * Clinical evaluation of Stereo-EEG biomarkers for epilepsy surgery  
   

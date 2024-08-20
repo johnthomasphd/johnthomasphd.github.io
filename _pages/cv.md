@@ -21,7 +21,7 @@ Electronics and Telecommunication Engineering, National Institute of Technology,
 Thesis: *Physical layer design for underwater acoustic communication.*  
 Supervisor: Dr. Dr. A. V. Babu
 
-Work experience
+## Employment History
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University

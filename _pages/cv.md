@@ -14,7 +14,7 @@ School of Electrical and Electronic Engineering, Nanyang Technological Universit
 Thesis: *Epilepsy diagnosis from EEG; A machine learning approach.*    
 Supervisors: Dr. Justin Dauwels, Dr. Brandon Westover, Dr. Sydney Cash  
 
-*2010-2014* **Bachelor of Technology*      
+*2010-2014* **Bachelor of Technology**    
 Electronics and Telecommunication Engineering, National Institute of Technology, Calicut, India     
 Thesis: *Physical layer design for underwater acoustic communication.*    
 Supervisor: Dr. Dr. A. V. Babu
@@ -22,7 +22,7 @@ Supervisor: Dr. Dr. A. V. Babu
 ## Employment History
 
 *2023-Present* **Research Scientist**    
-Pratt School of Engineering, Duke University
+Pratt School of Engineering, Duke University, USA
 <div style="margin-top: 0px; margin-bottom: 0px;">
 Ongoing Projects:</div>
 

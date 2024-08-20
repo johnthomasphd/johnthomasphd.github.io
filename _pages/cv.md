@@ -26,8 +26,8 @@ Supervisor: Dr. Dr. A. V. Babu
 *2013-Present* **Research Scientist**    
 Pratt School of Engineering, Duke University  
 Ongoing Projects: 
-* Deep phenotyping of epilepsy patients from 
-* fsfds
+* Deep phenotyping of stereo-EEG data for optimising epilepsy surgery
+* 
   
 
 

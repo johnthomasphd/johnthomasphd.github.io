@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-**2015-2019** &nbsp; **Doctor of Philosophy**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: *Epilepsy diagnosis from EEG; A machine learning approach.*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisors: Dr. Justin Dauwels, Dr. Brandon Westover, Dr. Sydney Cash
+*2015-2019* **Doctor of Philosophy**  
+School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore 
+Thesis: *Epilepsy diagnosis from EEG; A machine learning approach.*  
+Supervisors: Dr. Justin Dauwels, Dr. Brandon Westover, Dr. Sydney Cash
 
-**2010-2014** &nbsp; **Bachelor of Technology**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Electronics and Telecommunication Engineering, National Institute of Technology, Calicut, India 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: *Physical layer design for underwater acoustic communication.*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Dr. Dr. A. V. Babu
+*2010-2014* **Bachelor of Technology**  
+Electronics and Telecommunication Engineering, National Institute of Technology, Calicut, India 
+Thesis: *Physical layer design for underwater acoustic communication.*  
+Supervisor: Dr. Dr. A. V. Babu
 
 Work experience
 ======
@@ -38,33 +38,17 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+#Talks
+#======
+ # <ul>{% for post in site.talks reversed %}
+  #  {% include archive-single-talk-cv.html  %}
+  #{% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams

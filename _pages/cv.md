@@ -9,6 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+## Education
+
+**2015-2019**  
+**Doctor of Philosophy**, School of Electrical and Electronic Engineering,  
+Nanyang Technological University, Singapore  
+Thesis title: *Epilepsy diagnosis from EEG; A machine learning approach.*  
+Supervisor: Dr. Justin Dauwels
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)

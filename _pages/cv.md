@@ -30,7 +30,8 @@ Ongoing Projects:</div>
 * Intracranial thalamic stimulation for modulating sleep-epilepsy networks
 * Utilizing Large Language Models to derive and standardize seizure semiology
 * Longitudnal assesment of sleep quality using wearables
-* Clinical evaluation of Stereo-EEG biomarkers for epilepsy surgery  
+* Clinical evaluation of Stereo-EEG biomarkers for epilepsy surgery
+* Determining varibailty in epileptic spike morphology across vigilance states
   
 
 

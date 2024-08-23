@@ -7,8 +7,6 @@ author_profile: true
 
 ## 🎤 Invited Talks and Guest Lectures
 
-<div style="text-align: justify;">
-
 1. **“Reading the human brain: How AI aids clinical diagnosis.”**  
    *Community Guest Lectures, Durham Center for Senior Life, September 2024 (scheduled)*  
 

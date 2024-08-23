@@ -14,7 +14,8 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 ## 📰 New Events
 
 - **🚀 New Paper Out!**  
-  Our latest paper on **Investigating current clinical opinions in stereoelectroencephalography-informed epilepsy surgery** has been published in *Journal Name*. This study explores [briefly describe the key points or findings of the paper]. Check it out [here](#).
+  **The Global Language of Stereo EEG!**  
+  Discover how global variation in SEEG terminology and practices may impact epilepsy surgery outcomes. Dive into the details in our latest paper published in *Epilepsia*. Read it [here](https://doi.org/10.1111/epi.18076).
 
 - **🎉 Two Abstracts Accepted!**  
   We are excited to announce that two of our abstracts have been accepted for presentation at upcoming conferences:
@@ -24,6 +25,5 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 Stay tuned for more updates and insights from our ongoing research!
 
 ---
-
 
 

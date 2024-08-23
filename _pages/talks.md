@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "🎤 Invited Talks and Guest Lectures"
 permalink: /talks/
 author_profile: true
 ---

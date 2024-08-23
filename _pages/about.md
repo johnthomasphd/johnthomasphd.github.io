@@ -19,8 +19,8 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 
 - **🎉 Two Abstracts Accepted!**  
   We are excited to announce that two of our abstracts have been accepted for presentation at upcoming conferences:
-  - **Conference 1:** [Abstract Title 1](#) - This abstract discusses [briefly describe the content or significance of the abstract].
-  - **Conference 2:** [Abstract Title 2](#) - This abstract focuses on [briefly describe the content or significance of the abstract].
+  - **Canadian League Against Epilespy Meeting, Montreal 2024:** *Music Therapy's Potential to Mitigate Epileptic Activity in Drug-Resistant Focal Epilepsy*
+  - **American Epilepsy Society Meeting, Los Angeles 2024:** *Regional and Experience-based Disparities Impact International SEEG-Guided Epilepsy Surgery Practices*
 
 Stay tuned for more updates and insights from our ongoing research!
 

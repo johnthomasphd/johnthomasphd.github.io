@@ -17,10 +17,8 @@ author_profile: true
 **Outreach:**  
 - 10 invited talks  
 - 4 oral conference presentations  
-- 9 poster presentations  
-
-</div>
-
+- 9 poster presentations
+  
 <br>
 
 ## 📑 Experience with Grant Writing

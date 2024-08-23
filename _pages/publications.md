@@ -72,8 +72,6 @@ author_profile: true
 3. **S. Hannan, J. Thomas, K. Jaber, et al.**  
    “The differing effects of sleep on ictal and interictal network dynamics in drug-resistant epilepsy,” *Annals of Neurology*, vol. 95, no. 1, pp. 42–56, 2024.
 
-... [List continued as needed]
-
 ## 📘 Conference Proceedings (Peer-Reviewed)
 
 1. **D. Jeswani, P. Kumar Govarthan, A. Selvaraj, C. Bobby Thomas, J. Thomas, and J. F. Agastinose Ronickom**  
@@ -82,8 +80,6 @@ author_profile: true
 2. **A. Selvaraj, S. Pj, J. Thomas, Y. Rajamanickam, R. N. Menon, and J. F. Agastinose Ronickom**  
    “Multi-class seizure type classification using features extracted from the EEG,” in *Healthcare Transformation with Informatics and Artificial Intelligence*, IOS Press, 2023, pp. 68–71.  
    [Link](https://ebooks.iospress.nl/doi/10.3233/SHTI230426)
-
-... [List continued as needed]
 
 ## 📚 Book Chapters
 

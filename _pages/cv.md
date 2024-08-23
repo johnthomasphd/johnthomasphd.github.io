@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Journey"
-permalink: /cv/
+permalink: /professional-journey/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,29 +9,25 @@ redirect_from:
 
 ## 📚 Education
 
-<div style="text-align: justify;">
-
-- **Doctor of Philosophy (2015-2019)**  
+* **Doctor of Philosophy (2015-2019)**  
   School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore  
-  Thesis: *Epilepsy diagnosis from EEG; A machine learning approach*  
-  Supervisors: Dr. Justin Dauwels, Dr. Brandon Westover, Dr. Sydney Cash  
+  *Thesis*: *Epilepsy diagnosis from EEG; A machine learning approach*  
+  *Supervisors*: Dr. Justin Dauwels, Dr. Brandon Westover, Dr. Sydney Cash  
 
-- **Bachelor of Technology (2010-2014)**  
+* **Bachelor of Technology (2010-2014)**  
   Electronics and Telecommunication Engineering, National Institute of Technology, Calicut, India  
-  Thesis: *Physical layer design for underwater acoustic communication*  
-  Supervisor: Dr. A. V. Babu  
+  *Thesis*: *Physical layer design for underwater acoustic communication*  
+  *Supervisor*: Dr. A. V. Babu  
 
-</div>
+<br>
 
 ## 💼 Employment History
 
-<div style="text-align: justify;">
-
 ### *2023-Present* **Research Scientist**  
 **Department of Biomedical Engineering, Duke University, USA**  
-**Supervisor:** Dr. Birgit Frauscher, Director of Duke Comprehensive Epilepsy Center
+*Supervisor:* Dr. Birgit Frauscher, Director of Duke Comprehensive Epilepsy Center
 
-#### On-going Projects:
+**On-going Projects:**
 - Deep phenotyping of stereo-EEG data for optimizing epilepsy surgery
 - Utilizing Large language models to derive and standardize seizure semiology
 - Multicenter clinical evaluation of stereo-EEG biomarkers for epilepsy surgery
@@ -39,16 +35,16 @@ redirect_from:
 - Longitudinal assessment of sleep quality using wearables
 - Determining variability in epileptic spike morphology across vigilance states
 
-#### On-going Collaborative Projects:
+**On-going Collaborative Projects:**
 - Development of EEG-based biometric system to identify friend and foe in defense application (Dr. Jac Fredo, IITBHU - Indian Institute of Technology (BHU), India, supported by the Defence Research and Development Organisation grant 68.68L INR)
 - Music therapy's potential to reduce epileptic activity in drug-resistant focal epilepsy (Dr. Thaera Arafat, Dr. Firas Fahoum, Tel Aviv Medical Center, Israel)
 - Evaluating long-term effects of pulsatile corticoid therapy in children with genetic drug-resistant epilepsy (Dr. Katharina Schiller, Dr. Markus Rauchenzauner, Children's Hospital Kaufbeuren, Bavaria, Germany)
 
 ### *2021-2023* **Postdoctoral Fellow**  
 **Montreal Neurological Institute, McGill University, Canada**  
-**Supervisors:** Dr. Jean Gotman, Dr. Birgit Frauscher
+*Supervisors:* Dr. Jean Gotman, Dr. Birgit Frauscher
 
-#### Projects:
+**Projects:**
 - Developing computational stereo-EEG biomarkers for aiding epilepsy surgery
 - Evaluation of human sleep patterns within the brain and their relationship to memory function and abnormal activity
 - Analysis of intracerebral epileptic and sleep patterns during auditory stimulation
@@ -56,15 +52,12 @@ redirect_from:
 
 ### *2019-2020* **Postdoctoral Fellow**  
 **Nanyang Technological University, Singapore**  
-**Supervisor:** Dr. Justin Dauwels
+*Supervisor:* Dr. Justin Dauwels
 
-#### Projects:
+**Projects:**
 - Developing automated deep learning-based detectors for identifying epilepsy patterns such as spikes, seizures, and slowing
-- Integrating the detectors with the commercial product
+- Integrating the detectors with the commercial product NeuroBrowser (https://www.mindsignshealth.com/)
 - Developing an automated deep learning-based model for autism diagnosis using resting-state fMRI data
 
 ### *2019* **Project Assistant**  
 **Nanyang Technological University, Singapore**
-
-</div>
-

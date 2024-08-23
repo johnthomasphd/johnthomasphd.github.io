@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Organizational Activities"
+title: "🗂️ Organizational Activities"
 permalink: /organizational/
 author_profile: true
 ---
-
-## 🗂️ Organizational Activities
-
 ### 2024-2025
 - **Committee Member**, Equity, Diversity, and Inclusion (EDI) Committee, Duke Neurology.
 

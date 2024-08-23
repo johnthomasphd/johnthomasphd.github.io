@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Journey"
-permalink: /professional-journey/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume

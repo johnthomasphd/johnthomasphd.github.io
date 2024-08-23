@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Organizational Activities"
-permalink: /organizational-activities/
+permalink: /organizational/
 author_profile: true
 ---
 

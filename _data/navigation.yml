@@ -9,8 +9,8 @@ main:
     url: /cv/
 
         
-  - title: "Awards and Funding"
-    url: /award/
+#  - title: "Awards and Funding"
+ #   url: /award/
     
 # - title: "Research Activities"
  #  url: /publications/

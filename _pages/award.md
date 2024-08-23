@@ -7,8 +7,6 @@ author_profile: true
 
 ## 🏆 Awards and Achievements
 
-<div style="text-align: justify; margin-bottom: 20px;">
-
 **Total: USD 254,000**
 
 - **2023-2025**
@@ -62,13 +60,9 @@ author_profile: true
 - **2016**  
   **Bachelor of Technology Degree: First Class with Distinction**, National Institute of Technology Calicut
 
-</div>
-
-<br>
+---
 
 ## 💰 Research Funding
-
-<div style="text-align: justify; margin-bottom: 20px;">
 
 **Total: USD 83,750**
 
@@ -93,4 +87,4 @@ author_profile: true
   **Key Personnel**, Dreem Call for Proposal 2nd Edition (PI: Dr. Birgit Frauscher)  
   *Project Title:* *Development of an Epileptic Sleep Quality Index (EpiSQI) for People with Epilepsy Using the Dreem Headband*
 
-</div>
+---

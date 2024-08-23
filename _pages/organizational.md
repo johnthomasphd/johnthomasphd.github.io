@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "🗂️ Organizational Activities"
 permalink: /organizational/
 author_profile: true
 ---

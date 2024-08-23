@@ -1,9 +1,11 @@
 ---
 layout: archive
-title: "📊 Research Overview"
+title: "Research Activities"
 permalink: /publications/
 author_profile: true
 ---
+
+## 📊 Research Overview
 
 **Publications:** 32 peer-reviewed publications (20 journal articles, 8 conference publications, 2 book chapters, and 2 under review), 1 patent pending, 2 technology disclosures, 26 abstracts, and 1 magazine article.
 

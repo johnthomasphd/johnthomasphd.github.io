@@ -7,8 +7,6 @@ author_profile: true
 
 ## 📊 Research Overview
 
-<div style="text-align: justify;">
-
 **Publications:** 32 peer-reviewed publications (20 journal articles, 8 conference publications, 2 book chapters, and 2 under review), 1 patent pending, 2 technology disclosures, 26 abstracts, and 1 magazine article.
 
 **Google Scholar Metrics:**  
@@ -26,8 +24,6 @@ author_profile: true
 <br>
 
 ## 📑 Experience with Grant Writing
-
-<div style="text-align: justify;">
 
 **USA:** National Institutes of Health (NIH), CURE Epilepsy, American Epilepsy Society (AES)  
 **Canada:** Canadian Institutes of Health Research (CIHR), Savoy Foundation  

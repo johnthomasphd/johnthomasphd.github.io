@@ -23,7 +23,8 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
   - **Canadian League Against Epilespy Meeting, Montreal 2024:** *Music Therapy's Potential to Mitigate Epileptic Activity in Drug-Resistant Focal Epilepsy*
   - **American Epilepsy Society Meeting, Los Angeles 2024:** *Regional and Experience-based Disparities Impact International SEEG-Guided Epilepsy Surgery Practices*
 
-Stay tuned for more updates and insights from our ongoing research!
+✨ **Stay tuned for more exciting updates!**  🚀
+
 
 ---
 

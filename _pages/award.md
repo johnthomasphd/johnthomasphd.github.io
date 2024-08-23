@@ -7,13 +7,12 @@ author_profile: true
 
 ## 🏆 Awards and Achievements
 
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;">
 
 **Total: USD 254,000**
 
-- **2023-2025**  
-  **Canadian Institutes of Health Research (CIHR) Fellowship**  
-  *Discontinued*
+- **2023-2025**
+- **Canadian Institutes of Health Research (CIHR) Fellowship**, *Discontinued*
 
 - **2023**  
   **The Centre of Excellence in Epilepsy Travel Award**, McGill University
@@ -69,7 +68,7 @@ author_profile: true
 
 ## 💰 Research Funding
 
-<div style="text-align: justify;">
+<div style="text-align: justify; margin-bottom: 20px;">
 
 **Total: USD 83,750**
 
@@ -95,4 +94,3 @@ author_profile: true
   *Project Title:* *Development of an Epileptic Sleep Quality Index (EpiSQI) for People with Epilepsy Using the Dreem Headband*
 
 </div>
-

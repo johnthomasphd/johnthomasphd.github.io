@@ -14,7 +14,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 ## 📰 New Events
 
 - **🚀 New Paper Out!**  
-  Our latest paper on [Title of Your Paper](#) has been published in *Journal Name*. This study explores [briefly describe the key points or findings of the paper]. Check it out [here](#).
+  Our latest paper on **Investigating current clinical opinions in stereoelectroencephalography-informed epilepsy surgery** has been published in *Journal Name*. This study explores [briefly describe the key points or findings of the paper]. Check it out [here](#).
 
 - **🎉 Two Abstracts Accepted!**  
   We are excited to announce that two of our abstracts have been accepted for presentation at upcoming conferences:

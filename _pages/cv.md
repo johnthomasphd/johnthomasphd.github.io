@@ -56,7 +56,7 @@ redirect_from:
 
 **Projects:**
 - Developing automated deep learning-based detectors for identifying epilepsy patterns such as spikes, seizures, and slowing
-- Integrating the detectors with the commercial product NeuroBrowser (https://www.mindsignshealth.com/)
+- Integrating the detectors with the commercial product 
 - Developing an automated deep learning-based model for autism diagnosis using resting-state fMRI data
 
 ### *2019* **Project Assistant**  

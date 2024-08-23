@@ -18,8 +18,6 @@ author_profile: true
 - 10 invited talks  
 - 4 oral conference presentations  
 - 9 poster presentations
-  
-<br>
 
 ## 📑 Experience with Grant Writing
 
@@ -27,13 +25,7 @@ author_profile: true
 **Canada:** Canadian Institutes of Health Research (CIHR), Savoy Foundation  
 **Singapore:** Ministry of Education (MOE), National Health Innovation Centre (NHIC)  
 
-</div>
-
-<br>
-
 ## 🔍 Patents and Technology Disclosures
-
-<div style="text-align: justify;">
 
 1. **J. Dauwels, W. Y. Peh, J. Thomas, and M. Birnbaum**  
    “Automated machine learning-based slow detection and classification system, and artifact removal in EEG,” Technology disclosure accepted at NTUitive (Ref. ID: 2019-369-01-SG-PRV), 2019.
@@ -45,13 +37,7 @@ author_profile: true
 3. **J. Dauwels, J. Thomas, and P. Thangavel**  
    “Automated deep learning-based epilepsy diagnostic system,” Technology disclosure accepted at NTUitive (Ref. ID: 2018-292-01-SG-PRV), 2019.
 
-</div>
-
-<br>
-
 ## 📝 Lead Author Journal Publications
-
-<div style="text-align: justify;">
 
 1. **J. Thomas, C. Abdallah, Z. Cai, et al.**  
    “Investigating current clinical opinions in stereoelectroencephalography-informed epilepsy surgery,” *Epilepsia*, 2024.
@@ -75,13 +61,7 @@ author_profile: true
    “Automated detection of interictal epileptiform discharges from scalp electroencephalograms by convolutional neural networks,” *International Journal of Neural Systems*, vol. 30, no. 11, p. 2050030, 2020.  
    [Link](https://doi.org/10.1142/S0129065720500306)
 
-</div>
-
-<br>
-
 ## 🖊️ Other Journal Publications
-
-<div style="text-align: justify;">
 
 1. **C. Abdallah, J. Thomas, ..., and B. Frauscher**  
    “Visual features in stereo-electroencephalography to predict surgical outcome: A multicenter study,” *Annals of Neurology*, under review, 2024.
@@ -94,13 +74,7 @@ author_profile: true
 
 ... [List continued as needed]
 
-</div>
-
-<br>
-
 ## 📘 Conference Proceedings (Peer-Reviewed)
-
-<div style="text-align: justify;">
 
 1. **D. Jeswani, P. Kumar Govarthan, A. Selvaraj, C. Bobby Thomas, J. Thomas, and J. F. Agastinose Ronickom**  
    “A feasibility study on using EEG for biometric trait authentication system,” in *Current Directions in Biomedical Engineering*, De Gruyter, vol. 9, 2023, pp. 690–693.
@@ -111,13 +85,7 @@ author_profile: true
 
 ... [List continued as needed]
 
-</div>
-
-<br>
-
 ## 📚 Book Chapters
-
-<div style="text-align: justify;">
 
 1. **S. Abirami, J. Thomas, R. Yuvaraj, and J. F. Agastinose Ronickom**  
    *A Comparative Study on EEG Features for Neonatal Seizure Detection*. Springer, 2022, pp. 43–64.
@@ -125,13 +93,7 @@ author_profile: true
 2. **R. Yuvaraj, J. Thomas, E. Bagheri, J. Dauwels, R. Rathakrishnan, and Y. L. Tan**  
    *Computational Approaches for Diagnosis and Monitoring of Epilepsy from Scalp EEG*. Springer, 2022, pp. 1–31.
 
-</div>
-
-<br>
-
 ## 🔍 Selected Abstracts
-
-<div style="text-align: justify;">
 
 1. **T. Arafat, J. Thomas, G. Gurevitch, ..., F. Fahoum, and S. Kipervasser**  
    “Music therapy’s potential to mitigate epileptic activity in drug-resistant focal epilepsy,” in *accepted for presentation at the Canadian League Against Epilepsy (CLAE) Annual Meeting*, 2024.
@@ -140,5 +102,3 @@ author_profile: true
    “Regional and experience-based disparities impact international SEEG-guided epilepsy surgery practices,” in *accepted for presentation at the American Epilepsy Society (AES) Annual Meeting*, 2024.
 
 ... [List continued as needed]
-
-</div>

@@ -12,8 +12,8 @@ main:
   - title: "Awards and Funding"
     url: /award/
     
- - title: "Research Activities"
-   url: /publications/
+# - title: "Research Activities"
+ #  url: /publications/
 
  -  title: "Talks and Lectures"
     url: /talks/    

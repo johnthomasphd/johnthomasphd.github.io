@@ -7,6 +7,10 @@
 main:
   - title: "CV"
     url: /cv/
+
+        
+  - title: "Awards and FUnding"
+    url: /awards/
     
 #  - title: "Publications"
  #   url: /publications/

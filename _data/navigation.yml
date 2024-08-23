@@ -7,27 +7,24 @@
 main:
   - title: "Professional Journey"
     url: /cv/
-
-        
-#  - title: "Awards and Funding"
- #   url: /award/
     
-# - title: "Research Activities"
- #  url: /publications/
+  - title: "Awards and Funding"
+    url: /award/
 
- -  title: "Talks and Lectures"
-    url: /talks/    
+  - title: "Research Activities"
+    url: /publications/
+
+  - title: "Talks and Lectures"
+    url: /talks/
 
   - title: "Organizational Activities"
-    url: /organizational/    
-    
- # - title: "Portfolio"
- #   url: /portfolio/
-        
- # - title: "Blog Posts"
-  #  url: /year-archive/
-    
+    url: /organizational/
 
-    
- # - title: "Guide"
- #   url: /markdown/
+  # - title: "Portfolio"
+  #   url: /portfolio/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  # - title: "Guide"
+  #   url: /markdown/

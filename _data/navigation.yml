@@ -1,13 +1,3 @@
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-690PCB5NXZ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-690PCB5NXZ');
-</script>
-
 # The following is the order of the links in the header of the website.
 #
 # Changing the order here will adjust the order and you can also add additional

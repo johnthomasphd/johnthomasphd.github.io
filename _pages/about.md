@@ -19,28 +19,29 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; max-width: 33%; padding: 0 5px;">
     <a href="https://johnthomasphd.github.io/_pages/about_page_1.md">
-      <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 1" style="width:30%; max-width:200px;">
+      <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 1" style="width:100%; height:auto;">
     </a>  
     <p style="text-align: center;"><strong>[Page 1](https://johnthomasphd.github.io/_pages/about_page_1.md)</strong></p>
-  </div
+  </div>
 
-  <div style="flex: 1; margin-right: 10px;">
+  <div style="flex: 1; max-width: 33%; padding: 0 5px;">
     <a href="https://johnthomasphd.github.io/_pages/about_page_2.md">
-      <img src="https://johnthomasphd.github.io/images/photo_2.png" alt="Page 2" style="width:30%; max-width:200px;">
+      <img src="https://johnthomasphd.github.io/images/photo_2.png" alt="Page 2" style="width:100%; height:auto;">
     </a>  
     <p style="text-align: center;"><strong>[Page 2](https://johnthomasphd.github.io/_pages/about_page_2.md)</strong></p>
   </div>
 
-  <div style="flex: 1;">
+  <div style="flex: 1; max-width: 33%; padding: 0 5px;">
     <a href="https://johnthomasphd.github.io/_pages/about_page_3.md">
-      <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:30%; max-width:200px;">
+      <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:100%; height:auto;">
     </a>  
     <p style="text-align: center;"><strong>[Page 3](https://johnthomasphd.github.io/_pages/about_page_3.md)</strong></p>
   </div>
 
 </div>
+
 
 
 

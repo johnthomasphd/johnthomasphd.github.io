@@ -3,7 +3,6 @@ permalink: /brain_disorders/
 title: "Brain Disorders"
 author_profile: true
 ---
-
 This theme focuses on understanding various neurological disorders through innovative diagnostic tools, optimizing surgical outcomes, and exploring advanced neuroimaging and computational techniques.
 
 ## Epilepsy Diagnosis

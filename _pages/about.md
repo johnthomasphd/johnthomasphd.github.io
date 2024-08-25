@@ -15,7 +15,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 
 <br>
 
-## New Pages
+## Research themes
 
 <div style="display: flex; justify-content: space-between;">
 

@@ -2,8 +2,6 @@
 permalink: /brain_disorders/
 title: "Brain Disorders"
 author_profile: true
-redirect_from: 
-  - "/about/"
 ---
 
 Amidst the bustling streets of a small coastal town, the aroma of freshly baked bread wafted through the air, mingling with the salty sea breeze. 

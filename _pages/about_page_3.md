@@ -1,3 +1,9 @@
+---
+permalink: /automated_systems/
+title: "Automated Systems"
+author_profile: true
+---
+
 The city buzzed with energy as people hurried along the sidewalks, their footsteps a steady rhythm against the concrete. Neon signs flickered in the windows of 
 bustling shops, casting colorful reflections on the wet pavement below. The smell of street food—spicy, sweet, and savory—mingled with the crisp evening air,
 tempting passersby with promises of warm, delicious meals. Above the chaos, towering skyscrapers stood like sentinels, their windows glowing with the lights of

@@ -4,8 +4,6 @@ title: "Brain Disorders"
 author_profile: true
 ---
 
-# Brain Disorders
-
 This theme focuses on understanding various neurological disorders through innovative diagnostic tools, optimizing surgical outcomes, and exploring advanced neuroimaging and computational techniques.
 
 ## Epilepsy Diagnosis

@@ -38,8 +38,8 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
   </div>
 
   <div style="flex: 1; max-width: 100%; padding: 0 5px; text-align: center;">
-    <a href="https://johnthomasphd.github.io/_pages/about_page_1.md">
-      <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:50%; height:auto;">
+    <a href="https://johnthomasphd.github.io/_pages/about_page_3.md">
+      <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 3" style="width:50%; height:auto;">
     </a>  
     <a href="https://johnthomasphd.github.io/_pages/about_page_3.md" style="display: block; margin-top: 5px;">
       <strong>Automated Systems</strong>

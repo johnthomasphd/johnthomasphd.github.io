@@ -1,3 +1,10 @@
+---
+layout: archive
+title: ""
+permalink: /about_page_1/
+author_profile: true
+---
+
 Amidst the bustling streets of a small coastal town, the aroma of freshly baked bread wafted through the air, mingling with the salty sea breeze. 
 Seagulls circled overhead, their cries blending with the distant hum of boat engines. The sun cast long, golden shadows across the cobblestone streets 
 as locals and tourists alike meandered through open markets, eyeing vibrant displays of fruits, vegetables, and handmade crafts. Children laughed as they 

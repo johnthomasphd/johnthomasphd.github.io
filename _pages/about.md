@@ -24,7 +24,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
       <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 1" style="width:30%; height:auto;">
     </a>  
     <a href="https://johnthomasphd.github.io/_pages/about_page_1.md" style="display: block; margin-top: 5px;">
-      <strong>Page 1</strong>
+      <strong>Brain Disorders</strong>
     </a>
   </div>
 
@@ -33,7 +33,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
       <img src="https://johnthomasphd.github.io/images/photo_2.png" alt="Page 2" style="width:30%; height:auto;">
     </a>  
     <a href="https://johnthomasphd.github.io/_pages/about_page_2.md" style="display: block; margin-top: 5px;">
-      <strong>Page 2</strong>
+      <strong>Healthy Brain</strong>
     </a>
   </div>
 
@@ -42,7 +42,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
       <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:30%; height:auto;">
     </a>  
     <a href="https://johnthomasphd.github.io/_pages/about_page_3.md" style="display: block; margin-top: 5px;">
-      <strong>Page 3</strong>
+      <strong>Automated Systems</strong>
     </a>
   </div>
 

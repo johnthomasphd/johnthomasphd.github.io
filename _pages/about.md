@@ -19,7 +19,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="flex: 1; max-width: 33%; padding: 0 5px; text-align: center;">
+  <div style="flex: 1; max-width: 50%; padding: 0 5px; text-align: center;">
     <a href="https://johnthomasphd.github.io/_pages/about_page_1.md">
       <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 1" style="width:30%; height:auto;">
     </a>  
@@ -28,7 +28,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
     </a>
   </div>
 
-  <div style="flex: 1; max-width: 33%; padding: 0 5px; text-align: center;">
+  <div style="flex: 1; max-width: 50%; padding: 0 5px; text-align: center;">
     <a href="https://johnthomasphd.github.io/_pages/about_page_2.md">
       <img src="https://johnthomasphd.github.io/images/photo_2.png" alt="Page 2" style="width:30%; height:auto;">
     </a>  
@@ -37,7 +37,7 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
     </a>
   </div>
 
-  <div style="flex: 1; max-width: 33%; padding: 0 5px; text-align: center;">
+  <div style="flex: 1; max-width: 50%; padding: 0 5px; text-align: center;">
     <a href="https://johnthomasphd.github.io/_pages/about_page_3.md">
       <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:30%; height:auto;">
     </a>  

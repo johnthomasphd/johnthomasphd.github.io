@@ -3,9 +3,6 @@ permalink: /healthy_brain/
 title: "Healthy Brain"
 author_profile: true
 ---
-
-# Healthy Brain
-
 This theme focuses on understanding the functioning of a healthy brain, exploring sleep patterns, brain-computer interfaces, and cognitive processes to gain insights into human cognition and behavior.
 
 ## Sleep

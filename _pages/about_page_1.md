@@ -1,10 +1,7 @@
 ---
 layout: archive
-title: "My Research Interests"
-permalink: /about/
+permalink: /about_page_1/
 author_profile: true
-redirect_from:
-  - /about
 ---
 
 Amidst the bustling streets of a small coastal town, the aroma of freshly baked bread wafted through the air, mingling with the salty sea breeze. 

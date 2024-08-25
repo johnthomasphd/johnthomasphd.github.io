@@ -17,20 +17,31 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 
 ## New Pages
 
-<a href="https://johnthomasphd.github.io/_pages/about_page_1.md">
-  <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 1" style="width:30%; max-width:600px;">
-</a>  
-**[Page 1](https://johnthomasphd.github.io/_pages/about_page_1.md)**
+<div style="display: flex; justify-content: space-between;">
 
-<a href="https://johnthomasphd.github.io/_pages/about_page_2.md">
-  <img src="https://johnthomasphd.github.io/images/photo_2.png" alt="Page 2" style="width:30%; max-width:600px;">
-</a>  
-**[Page 2](https://johnthomasphd.github.io/_pages/about_page_2.md)**
+  <div style="flex: 1; margin-right: 10px;">
+    <a href="https://johnthomasphd.github.io/_pages/about_page_1.md">
+      <img src="https://johnthomasphd.github.io/images/photo_1.png" alt="Page 1" style="width:30%; max-width:200px;">
+    </a>  
+    <p style="text-align: center;"><strong>[Page 1](https://johnthomasphd.github.io/_pages/about_page_1.md)</strong></p>
+  </div
 
-<a href="https://johnthomasphd.github.io/_pages/about_page_3.md">
-  <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:30%; max-width:600px;">
-</a>  
-**[Page 3](https://johnthomasphd.github.io/_pages/about_page_3.md)**
+  <div style="flex: 1; margin-right: 10px;">
+    <a href="https://johnthomasphd.github.io/_pages/about_page_2.md">
+      <img src="https://johnthomasphd.github.io/images/photo_2.png" alt="Page 2" style="width:30%; max-width:200px;">
+    </a>  
+    <p style="text-align: center;"><strong>[Page 2](https://johnthomasphd.github.io/_pages/about_page_2.md)</strong></p>
+  </div>
+
+  <div style="flex: 1;">
+    <a href="https://johnthomasphd.github.io/_pages/about_page_3.md">
+      <img src="https://johnthomasphd.github.io/images/photo_3.png" alt="Page 3" style="width:30%; max-width:200px;">
+    </a>  
+    <p style="text-align: center;"><strong>[Page 3](https://johnthomasphd.github.io/_pages/about_page_3.md)</strong></p>
+  </div>
+
+</div>
+
 
 
 ## 📰 New Events

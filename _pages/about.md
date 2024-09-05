@@ -54,7 +54,11 @@ I am an experienced academic researcher, teacher, and leader who is passionate a
 
 ## 📰 New Events
 
-- **🚀 New Paper Out!**  
+- **🚀 New Papers Out!**  
+  **Revolutionizing Epilepsy Surgery Decisions with Artificial Intelligence**  
+  Explore our latest publication on **developing an automated stereo-EEG based seizure matching system** for clinical decision-making in epilepsy surgery. This study introduces a groundbreaking approach to matching seizures using both electrographic and anatomical data, simplifying complex evaluations for clinicians.  
+  Published in *Journal of Neural Engineering*. Read it [here](https://doi.org/10.1088/1741-2552/ad7323).
+  
   **The Global Language of Stereo EEG!**  
   Discover how global variation in SEEG terminology and practices may impact epilepsy surgery outcomes. Dive into the details in our latest paper published in *Epilepsia*. Read it [here](https://doi.org/10.1111/epi.18076).
 

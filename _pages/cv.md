@@ -36,7 +36,7 @@ redirect_from:
 - Determining variability in epileptic spike morphology across vigilance states
 
 **On-going Collaborative Projects:**
-- Development of EEG-based biometric system to identify friend and foe in defense application (Dr. Jac Fredo, IITBHU - Indian Institute of Technology (BHU), India, supported by the Defence Research and Development Organisation grant 68.68L INR)
+- Development of EEG-based biometric system to identify friend and foe in defense application (Dr. Jac Fredo, IITBHU - Indian Institute of Technology (BHU), India)
 - Music therapy's potential to reduce epileptic activity in drug-resistant focal epilepsy (Dr. Thaera Arafat, Dr. Firas Fahoum, Tel Aviv Medical Center, Israel)
 - Evaluating long-term effects of pulsatile corticoid therapy in children with genetic drug-resistant epilepsy (Dr. Katharina Schiller, Dr. Markus Rauchenzauner, Children's Hospital Kaufbeuren, Bavaria, Germany)
 

@@ -4,6 +4,8 @@ title: about
 permalink: /
 subtitle: Assistant Professor <a href='rit.edu'>Rochester Institute of Technology</a>.
 
+Experienced academic researcher, teacher, and leader who is passionate about using cutting-edge artificial intelligence 🧠 to reveal the underpinnings of the human brain 🧬 utilizing sleep-wake electrophysiology, neuroimaging, and neuromodulation.
+
 profile:
   align: right
   image: profile_pic.jpg
@@ -23,7 +25,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Experienced academic researcher, teacher, and leader who is passionate about using cutting-edge artificial intelligence 🧠 to reveal the underpinnings of the human brain 🧬 utilizing sleep-wake electrophysiology, neuroimaging, and neuromodulation.
+
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

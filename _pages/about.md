@@ -32,7 +32,7 @@ I’m building a research team to explore and develop innovative solutions at th
 ✅ What You Get (Pros)
 
 - I’ll be working `alongside` you (I’m hands-on).
-- Access to a strong network and datasets through international collaborators — with potential internship opportunities.
+- Access to a strong network and datasets through international collaborators-with potential internship opportunities.
 - Mentorship for both academic and industry-oriented projects.
 - Opportunities to publish, prototype, and even explore commercialization.
 - Flexibility and accommodation for any reasonable requests.

@@ -1,4 +1,4 @@
-Experienced academic researcher, teacher, and leader who is passionate about using cutting-edge artificial intelligence 🧠 to reveal the underpinnings of the human brain 🧬 utilizing sleep-wake electrophysiology, neuroimaging, and neuromodulation. 
+### Waiting !!
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture 

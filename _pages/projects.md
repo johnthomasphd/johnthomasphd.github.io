@@ -1,9 +1,9 @@
 ---
 layout: page
 title: projects
-permalink: /dprojects/
+permalink: /projects/
 description: In progress !
-nav: true
+nav: false
 nav_order: 3
 display_categories: [work, fun]
 horizontal: false

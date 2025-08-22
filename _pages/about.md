@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor [Rochester Institute of Technology](https://www.rit.edu)
+subtitle: Assistant Professor <a href='rit.edu'>Rochester Institute of Technology</a>.
 profile:
   align: right
   image: profile_pic.jpg

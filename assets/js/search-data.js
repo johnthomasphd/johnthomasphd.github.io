@@ -362,11 +362,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-new-chapter-assistant-professor-e-amp-amp-ce-technology-rit",
           title: 'New Chapter — Assistant Professor, E&amp;amp;amp;CE Technology, RIT',
           description: "",

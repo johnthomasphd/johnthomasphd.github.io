@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New Chapter — Assistant Professor, E&CE Technology, RIT
+New Chapter — Assistant Professor, Electrical and Computer Engineering Technology, RIT

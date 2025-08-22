@@ -415,7 +415,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("https://bsky.app/profile/johnthomasphd.bsky.social", "_blank");
+          window.open("johnthomasphd.bsky.social", "_blank");
         },
       },{
         id: 'social-email',
@@ -429,7 +429,7 @@ ninja.data = [{
         title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("https://github.com/:johnthomasphd", "_blank");
+          window.open("https://github.com/johnthomasphd", "_blank");
         },
       },{
         id: 'social-linkedin',

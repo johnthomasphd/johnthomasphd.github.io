@@ -411,13 +411,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
-        id: 'social-bluesky',
-        title: 'Bluesky',
-        section: 'Socials',
-        handler: () => {
-          window.open("johnthomasphd.bsky.social", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',

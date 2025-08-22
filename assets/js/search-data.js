@@ -362,8 +362,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-new-chapter-assistant-professor-e-amp-amp-ce-technology-rit",
-          title: 'New Chapter — Assistant Professor, E&amp;amp;amp;CE Technology, RIT',
+            },},{id: "news-new-chapter-assistant-professor-electrical-and-computer-engineering-technology-rit",
+          title: 'New Chapter — Assistant Professor, Electrical and Computer Engineering Technology, RIT',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

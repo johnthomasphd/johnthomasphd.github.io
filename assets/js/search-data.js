@@ -437,7 +437,7 @@ ninja.data = [{
         title: 'Bluesky',
         section: 'Socials',
         handler: () => {
-          window.open("johnthomasphd.bsky.social", "_blank");
+          window.open("johnthomasphd", "_blank");
         },
       },{
         id: 'social-email',
